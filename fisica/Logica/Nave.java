@@ -12,6 +12,7 @@ public class Nave {
 	int dy;
 	int x;
 	int y;
+	int pruf;
 	private Image imagen;
 	
 	public static void main(String[] args) {
